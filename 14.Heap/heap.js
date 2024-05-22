@@ -29,9 +29,9 @@ class MaxHeap{
     }
 
     /*  
-      Remove element from Heap
+        Remove element from Heap data structure
       
-      T.C: O(logn) 
+        T.C: O(logn) 
     */    
 
     remove(){
@@ -47,9 +47,8 @@ class MaxHeap{
     }
     
     /* 
-      Insert element from Heap
-      
-      T.C: O(logn)
+        Insert element into Heap data structure
+        T.C: O(logn)
     */
 
     add(val){
