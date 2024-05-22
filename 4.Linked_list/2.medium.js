@@ -229,7 +229,8 @@ function intersectOfLL() {
 /* Q14. Copy List with Random Pointer */
 // I faced challenges on question I will do it later on 
 
-
+/* Q15 Sort linked list using merge sort */
+// Thats question I had solved in crio platform refer from there.  
 
 
 
