@@ -113,6 +113,14 @@
 
 // console.log(cars);
 
-let Heap = require("collections/heap");
+// const time = new Date(Date.now()+(240*60*1000));
 
-console.log(Heap);
+// const currTime = new Date();
+// console.log(time," ",currTime);
+
+const time1 = new Date('05 Oct 2016');
+
+const time2 = new Date('22 Nov 2015');
+
+console.log(time1," ",time2," ", time1 < time2);
+
